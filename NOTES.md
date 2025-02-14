@@ -13,3 +13,7 @@ Páginas da web de grandes sites buscam seguir o mínimo de acessibilidade, apre
 
 Escolhida nossa abordagem inicial, vamos então para o próximo passo, iniciar o nosso código. Aqui farei em linguagem GO, por motivos, como já dito antes, Ruby ainda não é uma das linguagens que domino então vou para uma das que venho utilizando recentemente.
 
+Para procurar o que interessa no arquivo faremos o uso dos seletores (mais detalhes sobre os mesmos neste [link](https://www.w3.org/TR/2018/REC-selectors-3-20181106/#selectors) )
+
+O resultado da pesquisa vem dentro da div de id search
+posso fazer um script para pegar todas as divs que tem um nome e um uma role list
